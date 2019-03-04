@@ -5,6 +5,9 @@ contributor:
     agent_name: Fancher, Louis D.
     gutenberg_agent_id: '50222'
     url: http://www.gutenberg.org/2009/agents/50222
+covers:
+- cover_type: archival
+  image_path: 58944-h/images/cover.jpg
 creator:
   author:
     agent_name: Pratt, Ambrose
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37895
     wikipedia: http://en.wikipedia.org/wiki/Ambrose_Pratt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58944#The-Living-Mummy
 gutenberg_issued: '2019-02-23'
 gutenberg_type: Text
 identifiers:
